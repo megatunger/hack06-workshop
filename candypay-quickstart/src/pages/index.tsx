@@ -5,7 +5,6 @@ import styles from "@/styles/Home.module.css";
 import MacbookImage from "../assets/macbook-pro-16-m1-pro-2021-xam-650x650-1.png";
 import React from "react";
 import { Button } from "react-bootstrap";
-import { NextApiHandler } from "next";
 import { useRouter } from "next/router";
 const inter = Inter({ subsets: ["latin"] });
 
@@ -30,7 +29,7 @@ export default function Home() {
           as="a"
           variant="primary"
         >
-          Pay with 0.5 SOL
+          Pay with 10 USD
         </Button>
       </main>
     </>
