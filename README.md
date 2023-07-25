@@ -21,9 +21,8 @@
 
 ### 3. Tài liệu về các SDK
 
-- xNFT: https://docs.xnft.gg
-- Backpack: https://docs.xnfts.dev/ 
-- Elusiv: https://elusiv-privacy.github.io/elusiv-sdk/cd 
+- CandyPay: https://docs.candypay.fun/checkout/quickstart.html
+- Elusiv: https://elusiv-privacy.github.io/elusiv-sdk/
 
 ### 4. Slide
 
